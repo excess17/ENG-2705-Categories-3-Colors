@@ -1,0 +1,7 @@
+code: threecolorcategories
+description: three color categories
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  categories:
+    - categories/categories-descriptor.yaml
